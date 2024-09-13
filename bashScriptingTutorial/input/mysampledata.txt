@@ -1,0 +1,13 @@
+total 32
+-rwxr-xr-x. 1 leventop 54062 127 Sep 12 03:07 introduction.sh
+-rwxr-xr-x. 1 leventop 54062 165 Sep 12 03:14 input.sh
+-rwxr-xr-x. 1 leventop 54062 192 Sep 12 03:16 cars.sh
+-rwxr-xr-x. 1 leventop 54062 258 Sep 12 05:06 activity1_2.sh
+-rw-r--r--. 1 leventop 54062  98 Sep 12 05:19 activity3.txt
+-rw-r--r--. 1 leventop 54062 120 Sep 12 05:30 salesdata.txt
+-rw-r--r--. 1 leventop 54062   0 Sep 12 05:42 cat
+-rw-r--r--. 1 leventop 54062   0 Sep 12 05:42 ls
+-rwxr-xr-x. 1 leventop 54062 236 Sep 12 07:12 summary.sh
+-rwxr-xr-x. 1 leventop 54062  50 Sep 12 07:13 activity3.sh
+-rwxr-xr-x. 1 leventop 54062 306 Sep 12 07:29 activity4.sh
+-rwxr-xr-x. 1 leventop 54062   0 Sep 12 07:31 mysampledata.txt
